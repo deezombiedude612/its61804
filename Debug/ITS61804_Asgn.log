@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(410): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(604): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(615): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(626): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(653): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(654): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(660): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(661): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(667): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(668): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(677): warning C4018: '>': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(762): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2046): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2057): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2068): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2095): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2096): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2102): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2103): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2109): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2110): warning C4018: '<': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2119): warning C4018: '>': signed/unsigned mismatch
+c:\users\deezombiedude612\documents\visual studio 2017\its61804_asgn\its61804_asgn\source.cpp(2185): warning C4101: 'tempChar': unreferenced local variable
+  ITS61804_Asgn.vcxproj -> C:\Users\deezombiedude612\Documents\Visual Studio 2017\ITS61804_Asgn\Debug\ITS61804_Asgn.exe
+  ITS61804_Asgn.vcxproj -> C:\Users\deezombiedude612\Documents\Visual Studio 2017\ITS61804_Asgn\Debug\ITS61804_Asgn.pdb (Partial PDB)

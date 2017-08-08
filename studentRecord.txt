@@ -1,0 +1,10 @@
+12345;Catherine Disted;F;2;-1;-1;-1;-1;-1;active
+61513;Germanium Impostus;M;4S;79;56;77;60;80;70;45;55;active
+55385;Rancho Cucamonga;M;3;50;40;80;50;70;active
+36927;Leah Leeds;F;4A;65;-1;48;80;70;69;55;96;active
+74948;Lee Mazter;M;4S;-1;-1;-1;-1;-1;-1;-1;-1;active
+62600;Alfonso Alfred Bengata;M;3;-1;-1;-1;-1;-1;active
+85712;Margot Escargot;F;5A;75;-1;69;74;90;99;99;100;active
+86496;Mat A;M;5S;90;100;99;99;99;99;99;99;active
+93984;A Dru Lipsky;M;4S;69;69;69;69;69;69;69;69;active
+54557;An Ed Lipsky;M;3;49;49;49;49;50;active
